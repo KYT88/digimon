@@ -1,0 +1,74 @@
+{
+  "digimon": [
+    {
+      "name": "Agumon",
+      "type": "Reptile",
+      "level": "Rookie",
+      "attribute": "Vaccine",
+      "image": "https://digimon.fandom.com/wiki/File:Agumon.png"
+    },
+    {
+      "name": "Auramon",
+      "type": "Holy Mammal",
+      "level": "Rookie",
+      "attribute": "Vaccine",
+      "image": "https://digimon.fandom.com/wiki/File:Gabumon.png"
+    },
+    {
+      "name": "Patamon",
+      "type": "Mammal",
+      "level": "Rookie",
+      "attribute": "Vaccine",
+      "image": "https://digimon.fandom.com/wiki/File:Patamon.png"
+    },
+    {
+      "name": "Dracomon",
+      "type": "Dragonkin",
+      "level": "Rookie",
+      "attribute": "Virus",
+      "image": "https://digimon.fandom.com/wiki/File:Gatomon.png"
+    },
+    {
+      "name": "Veemon",
+      "type": "Dragon",
+      "level": "Rookie",
+      "attribute": "Free",
+      "image": "https://digimon.fandom.com/wiki/File:Veemon.png"
+    },
+    {
+      "name": "Renamon",
+      "type": "Beast",
+      "level": "Rookie",
+      "attribute": "Data",
+      "image": "https://digimon.fandom.com/wiki/File:Renamon.png"
+    },
+    {
+      "name": "Impmon",
+      "type": "Demon",
+      "level": "Rookie",
+      "attribute": "Virus",
+      "image": "https://digimon.fandom.com/wiki/File:Impmon.png"
+    },
+    {
+      "name": "Greymon",
+      "type": "Dinosaur",
+      "level": "Champion",
+      "attribute": "Vaccine",
+      "image": "https://digimon.fandom.com/wiki/File:Greymon.png"
+    },
+    {
+      "name": "MetalGarurumon",
+      "type": "Cyborg",
+      "level": "Mega",
+      "attribute": "Data",
+      "image": "https://digimon.fandom.com/wiki/File:MetalGarurumon.png"
+    },
+    {
+      "name": "Omnimon",
+      "type": "Holy Knight",
+      "level": "Mega",
+      "attribute": "Vaccine",
+      "image": "https://digimon.fandom.com/wiki/File:Omnimon.png"
+    }
+  ]
+}
