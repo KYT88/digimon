@@ -5,14 +5,14 @@
       "type": "Reptile",
       "level": "Rookie",
       "attribute": "Vaccine",
-      "image": "https://raw.githubusercontent.com/KYT88/digimon/refs/heads/main/Auramon.webp"
+      "image": "https://raw.githubusercontent.com/KYT88/digimon/refs/heads/main/Agomon.webp"
     },
     {
       "name": "Auramon",
       "type": "Holy Mammal",
       "level": "Rookie",
       "attribute": "Vaccine",
-      "image": "https://digimon.fandom.com/wiki/File:Gabumon.png"
+      "image": "https://raw.githubusercontent.com/KYT88/digimon/refs/heads/main/Auramon.webp"
     },
     {
       "name": "Patamon",
@@ -26,7 +26,7 @@
       "type": "Dragonkin",
       "level": "Rookie",
       "attribute": "Virus",
-      "image": "https://digimon.fandom.com/wiki/File:Gatomon.png"
+      "image": "https://raw.githubusercontent.com/KYT88/digimon/refs/heads/main/Draconix.webp"
     },
     {
       "name": "Veemon",
